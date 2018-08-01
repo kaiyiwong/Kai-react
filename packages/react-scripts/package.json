@@ -1,6 +1,6 @@
 {
   "name": "kai-react-scripts-next",
-  "version": "1.1.0-r4.1",
+  "version": "1.1.0-r5.1",
   "description": "Kai Configuration and scripts for Create React App.",
   "repository": "kaiyiwong/Kai-react",
   "license": "MIT",
@@ -72,13 +72,13 @@
     "webpack": "4.8.3",
     "webpack-dev-server": "3.1.4",
     "webpack-manifest-plugin": "2.0.3",
-    "whatwg-fetch": "2.0.4",
+    "whatwg-fetch": "2.0.4"
+  },
+  "devDependencies": {
     "gsap": "^2.0.1",
     "prop-types": "^15.6.2",
     "react-router-dom": "^4.3.1",
-    "react-transition-group": "^2.4.0"
-  },
-  "devDependencies": {
+    "react-transition-group": "^2.4.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   },

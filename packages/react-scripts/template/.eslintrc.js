@@ -59,6 +59,7 @@ module.exports = {
       'error',
       'always',
       {
+        ignorePackages: true,
         js: 'never',
         jsx: 'never',
       },
